@@ -1,0 +1,3 @@
+[submodule "lovesize"]
+	path = game/lovesize
+	url = https://github.com/RicardoBusta/lovesize
